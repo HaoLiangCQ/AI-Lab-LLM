@@ -26,7 +26,7 @@ from langchain.docstore.document import Document
 
 
 
-openai_api_key='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'
+openai_api_key=''
 os.environ["OPENAI_API_KEY"] = openai_api_key
 load_dotenv()
 
