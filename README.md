@@ -1,2 +1,3 @@
 # AI-Lab-LLM
-## Fine-tuning LLM and LangChain Based prototype
+## Fine-tuning LLM and LangChain Based prototype version
+ 
